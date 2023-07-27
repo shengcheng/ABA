@@ -6,5 +6,5 @@ To reproduce results for each benchmark, the following steps should be followed.
 - Digits: `bash run_bal_mnist.sh`
 
 ## Acknowledgements
-Part of the code structure is borrowed from ALT https://github.com/tejas-gokhale/ALT, BCNN https://github.com/kumar-shridhar/PyTorch-BayesianCNN/tree/master,  RandConv https://github.com/wildphoton/RandConv and Sagnet https://github.com/hyeonseobnam/sagnet .
+Part of the code structure is borrowed from ALT https://github.com/tejas-gokhale/ALT, BCNN https://github.com/kumar-shridhar/PyTorch-BayesianCNN/,  RandConv https://github.com/wildphoton/RandConv and Sagnet https://github.com/hyeonseobnam/sagnet .
 We thank the authors of these papers.
