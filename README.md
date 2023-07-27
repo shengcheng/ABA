@@ -1,5 +1,5 @@
 # Adversarial Bayesian Augmentation (ABA)
-Code for our paper: Adversarial Bayesian Augmentation for Single-Source Domain Generalization (ICCV 2023).
+Code for our paper: ["Adversarial Bayesian Augmentation for Single-Source Domain Generalization"](https://arxiv.org/abs/2307.09520) (ICCV 2023).
 To reproduce results for each benchmark, the following steps should be followed.
 
 ## Train and Evaluate
